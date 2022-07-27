@@ -29,6 +29,17 @@ public class Array {
 			for (int c:d) {
 				
 				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
+				System.out.println(c);
 			}
 		}
 		
